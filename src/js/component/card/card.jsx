@@ -5,7 +5,7 @@ import "../card/card.css"
 const Card = () => {
     return (
 		<div className="card" style={{ width: "18rem" }}>
-			<img src={rigoImage} className="card-img-top" alt="..." />
+			<img src="https://cdn.pixabay.com/photo/2022/09/07/07/07/cat-7438092_960_720.jpg" className="card-img-top" alt="..." />
 			<div className="card-body">
 				<h5 className="card-title">Card title</h5>
 				<p className="card-text">

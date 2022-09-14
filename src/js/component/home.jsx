@@ -7,7 +7,7 @@ import CardBox from "./cardBox.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div className="container-fluid">
+		<div className="container-">
 			<div>
 				<Navbar />
 			</div>
@@ -16,7 +16,7 @@ const Home = () => {
 				<CardBox />
 			</div>
 			
-			<div className="container-fluid">
+			<div className="container-">
 			<Footer />	
 			</div>
 			

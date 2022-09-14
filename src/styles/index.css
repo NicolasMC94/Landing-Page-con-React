@@ -1,11 +1,5 @@
-body{
-    margin:auto;
-    width: 100%;
-}
-
 .cont{
-    width: 75%;
-    justify-items: center;
+    width: 100%;
     margin:auto;
     display:flex;
 }

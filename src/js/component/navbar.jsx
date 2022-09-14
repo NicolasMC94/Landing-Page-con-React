@@ -3,7 +3,7 @@ import React from 'react';
 const Navbar = () => {
     return (
 		<nav className="navbar navbar-expand-lg bg-dark">
-			<a className="navbar-brand" href="#" style={{ color: "white" }}>
+			<a className="navbar-brand ms-3" href="#" style={{ color: "white" }}>
 				Start Boostrap
 			</a>
 			<button

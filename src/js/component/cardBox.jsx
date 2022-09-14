@@ -3,7 +3,7 @@ import Card from "./card/card.jsx";
 
 const CardBox = () => {
 	return (
-		<div className="cont container-fluid row">
+		<div className="d-flex justify-content-center mb-5">
 			<Card />
 			<Card />
 			<Card />
